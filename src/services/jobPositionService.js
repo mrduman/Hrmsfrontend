@@ -1,6 +1,6 @@
 export default class JobPositionService{
 
-    getJobPosition() {
+    getJobPositions() {
 
         return axios.get("http://localhost:8080/api/jobtitels/getall")
     }

@@ -20,7 +20,7 @@ export default function CandidateList() {
 
         <div>
 
-        <Table inverted celled fixed singleLine>
+        <Table  celled fixed singleLine>
     <Table.Header>
       <Table.Row>
         <Table.HeaderCell>First Name</Table.HeaderCell>
